@@ -1,4 +1,4 @@
-``` bash
+
 <?php
 session_start();
 
@@ -38,4 +38,4 @@ if (isset($_POST['logout'])) {
     </div>
 </body>
 </html>
-```
+
