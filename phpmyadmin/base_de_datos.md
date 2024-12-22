@@ -1,10 +1,10 @@
-##base de datos
+## base de datos
 
 ``` bash
 CREATE DATABASE autenticacion_db;
 ```
 
-##Tablas
+## Tablas
 ``` bash
 CREATE TABLE usuarios (
     id INT AUTO_INCREMENT PRIMARY KEY,
